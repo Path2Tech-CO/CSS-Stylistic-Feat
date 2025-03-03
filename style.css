@@ -1,0 +1,21 @@
+body{
+    background-color: seagreen;
+}
+
+h1 {
+    color:blue;
+}
+
+.color-pink, .paragraph {
+    color: pink;
+    font-size: 24px;
+}
+
+#h2 {
+    background-color: red;
+}
+
+/* {
+    font-size: 16px;
+    border: solid black 4px;
+}
