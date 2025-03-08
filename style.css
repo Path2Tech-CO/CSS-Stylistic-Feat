@@ -11,6 +11,10 @@ h1 {
     font-size: 24px;
 }
 
+.intro, .intro1{
+    color:pink
+}
+
 #h2 {
     background-color: red;
 }
